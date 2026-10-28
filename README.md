@@ -1,27 +1,31 @@
 
-<h1 align="center">Hi 👋, I'm Jahnavi C G</h1>
+<div align="center">
 
-<h3 align="center">Computer Science Engineering Graduate | Software Developer Aspirant</h3>
+# Hi, I'm Jahnavi 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jahnavi-c-g/">LinkedIn</a> •
-  <a href="https://github.com/JahnaviCG">GitHub</a> •
-  <a href="mailto:jahnavicg06@gmail.com">Email Me</a>
-</p>
+### Aspiring Software Developer
+
+Building practical applications, exploring new technologies, and turning ideas into code.
+
+[![GitHub](https://img.shields.io/badge/GitHub-JahnaviCG-181717?style=flat&logo=github)](https://github.com/JahnaviCG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/jahnavi-c-g/)
+
+</div>
+
+---
+
+### 👩‍💻 A Little About Me
+
+I'm a Computer Science Engineering graduate who enjoys developing software and exploring how technology can solve real-world problems.
+
+- 💡 Interested in software and backend development.
+- 🌱 Learning and building with Java and Spring Boot.
+- 🔧 Enjoy working with APIs, databases, and web technologies.
+- 🚀 Always exploring new ideas and improving my coding skills.
 
 ---
 
-## 👩‍💻 About Me
-
-I am a recent Computer Science Engineering graduate from Navkis College of Engineering, Hassan, with hands-on experience in Java-based web application development.
-
-- 💻 Interested in Java Development and Backend Development.
-- 🌱 Familiar with Java, Spring Boot, RESTful APIs, Hibernate/JPA, and PostgreSQL.
-- 🔧 Experience with CRUD operations, database integration, API testing, and debugging.
-- 🚀 Interested in building reliable web applications and improving my software development skills.
-- 🎯 Seeking an entry-level Software Developer or Software Developer Intern opportunity.
-
----
+### ⚙️ Technologies I Work With
 
 ## 🛠️ Technical Skills
 
@@ -57,109 +61,84 @@ I am a recent Computer Science Engineering graduate from Navkis College of Engin
 
 ---
 
-## 🚀 Projects
 
-### 1. Proctoring-Enabled Assessment Interface
+### 🚀 Things I've Built
 
-**Technologies:** Java, Spring Boot, React, Hibernate/JPA, PostgreSQL
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Developed a web-based online assessment application.
-- Built frontend components using React and backend services using Java and Spring Boot.
-- Integrated Hibernate/JPA with PostgreSQL for database operations.
-- Worked on structuring a full-stack application.
+### 📝 Proctoring-Enabled Assessment Interface
 
-🔗 [View Project Repository](https://github.com/JahnaviCG/proctoring-enabled-assessment-interface)
+A web-based assessment application designed to support online tests with exam monitoring features.
 
-### 2. Product Management System
+**Built with:** Java · Spring Boot · React · PostgreSQL
 
-**Technologies:** Java, Spring Boot, Spring Data JPA, PostgreSQL, REST APIs
+[View Repository →](https://github.com/JahnaviCG/proctoring-enabled-assessment-interface)
 
-- Developed RESTful APIs to create, retrieve, update, and delete product records.
-- Integrated PostgreSQL for data storage.
-- Used layered architecture to organize backend components and improve maintainability.
+</td>
+<td width="50%" valign="top">
 
-🔗 [Explore My GitHub Projects](https://github.com/JahnaviCG?tab=repositories)
+### 📦 Product Management System
 
-### 3. Smart Hire — Ongoing
+A backend application for managing product information through REST APIs and database operations.
 
-**Technologies:** Java, Spring Boot, PostgreSQL, HTML, CSS
+**Built with:** Java · Spring Boot · JPA · PostgreSQL
 
-- Developing a recruitment management application.
-- Working on REST API endpoints and relational database integration.
-- Building application functionality as part of an ongoing project.
+[Explore Projects →](https://github.com/JahnaviCG?tab=repositories)
 
-🔗 [Explore My GitHub Repositories](https://github.com/JahnaviCG?tab=repositories)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 4. Potato Leaf Disease Detection
+### 💼 Smart Hire
 
-**Technologies:** Python, OpenCV, SVM
+An ongoing recruitment management application with backend APIs and database integration.
 
-- Built a machine-learning prototype to classify potato leaf diseases.
-- Used image-processing techniques and a Support Vector Machine (SVM) algorithm.
+**Built with:** Java · Spring Boot · PostgreSQL · HTML · CSS
 
-### 5. Hand Gesture Robot
+[Explore Projects →](https://github.com/JahnaviCG?tab=repositories)
 
-**Technologies:** Python, OpenCV, MediaPipe, HC-05 Bluetooth, L293D
+</td>
+<td width="50%" valign="top">
 
-- Implemented real-time hand-gesture recognition.
-- Connected gesture inputs to a Bluetooth-controlled robot prototype.
+### 🌿 Potato Leaf Disease Detection
 
-🔗 [Explore More Projects](https://github.com/JahnaviCG?tab=repositories)
+A machine-learning project that explores image processing and classification of potato leaf diseases.
 
----
+**Built with:** Python · OpenCV · SVM
 
-## 💼 Internship Experience
+[Explore Projects →](https://github.com/JahnaviCG?tab=repositories)
 
-### Java Full Stack Developer Intern
-**Dyashin Technosoft Pvt. Ltd. | February 2026 – May 2026**
-
-- Developed and enhanced web application features using Java, Spring Boot, JavaScript, and PostgreSQL.
-- Implemented CRUD operations and RESTful API functionality.
-- Integrated backend services with relational database operations.
-- Performed debugging, functional testing, and troubleshooting.
-- Used SQL queries and testing tools to validate data handling and API responses.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Education
+### 📈 My GitHub
 
-**B.E. in Computer Science and Engineering**  
-Navkis College of Engineering, Hassan  
-2022 – 2026 | CGPA: 7.91/10
+<div align="center">
 
-**Pre-University Course (PCMB)**  
-Masters PU College, Hassan  
-2020 – 2022 | 73.3%
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JahnaviCG&show_icons=true&theme=tokyonight&hide_border=true)
 
-**SSLC**  
-Morarji Desai Residential School, Hassan  
-2020 | 79.04%
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnaviCG&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 📜 Certifications
+### 🤝 Let's Connect
 
-- Relational Database Management — Infosys Springboard
-- Data Structures — Infosys Springboard
-- Java Full Stack Development Internship — Dyashin Technosoft Pvt. Ltd.
-- Industrial Workshop — AIROBOSOFT Products and Services LLP
+I'm always interested in learning, collaborating, and connecting with fellow developers.
 
----
+- 💻 [GitHub](https://github.com/JahnaviCG)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jahnavi-c-g/)
+- ✉️ [Email](mailto:jahnavicg06@gmail.com)
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/JahnaviCG">
-    <img src="https://img.shields.io/badge/GitHub-Visit_My_Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/jahnavi-c-g/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jahnavicg06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+*“Keep learning. Keep building. Keep growing.”* ✨
 
-📍 Hassan, Karnataka, India
-
-**Thank you for visiting my GitHub profile!** 😊
+</div>
